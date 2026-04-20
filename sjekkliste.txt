@@ -7,10 +7,9 @@ sjekke navngivning eventuelt enhet på akser i plot
 Good to go:
 1a 
 1b
-
+1c
 
 Gjenstår:
-1c
 1d
 1e
 1f
