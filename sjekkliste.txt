@@ -2,6 +2,8 @@ Plan:
 Gå over pronomen
 Sjekke at man svarer på det oppgaven ber om
 sjekke navngivning eventuelt enhet på akser i plot
+fylle ut KI-erklæring
+sjekke kommentar til kode
 
 
 Good to go:
